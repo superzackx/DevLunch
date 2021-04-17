@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/qiowh98320/image/upload/e_bgremoval/v1618654154/COOKBOOK_API_1_cbywmy.png">
+<img src="./assets/image.png">
 
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
 ![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
