@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended: true}))
 mongoose.connect(url, { useUnifiedTopology: true, useNewUrlParser: true })
 
 app.get('/' , (req , res) =>{
-    res.json({message: 'Welcome to Cookbook API! Please add an ingrident to the URL.'})
+    res.json({message: 'Welcome to DeveloperLunch API! Please add an ingrident to the URL.'})
 })
 
 app.get('/ingredients/:i' , (req , res) =>{
