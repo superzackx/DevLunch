@@ -11,7 +11,7 @@
 
 | Information | Support |
 |:------------|:---------:|
-| A simple API that gives you a recipe depending on what ingredients you have at home. It will soon use alogrithms to decide what all can be made according to your pasty searches. Updates will be made weekly and new versions are coming up! | support us by contributing and PLEASE like this repo. Can we reach 1k stars? |
+| A simple API that gives you a recipe depending on what ingredients you have at home. It will soon use alogrithms to decide what all can be made according to your pasty searches. Updates will be made weekly and new versions are coming up! | support us by contributing and PLEASE star this repo. Can we reach 1k stars? |
 
 ## Usage
 
