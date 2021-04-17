@@ -1,4 +1,4 @@
-<img src="./assets/COOKBOOK_API.png">
+<img src="./assets/COOKBOOK_API.png" style="border: none;">
 
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
 ![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
