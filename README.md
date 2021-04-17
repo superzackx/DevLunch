@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <img src="./assets/final_607afb6c25a269005bb44ca3_259327.png" style="border: none;">
 
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
@@ -46,3 +47,5 @@ You can contribute by opening a new issue or make a pull request!
 ## Support Us
 
 Please star this repo! It will help a lot. You can fork the repo to make your own version. Make sure you share new versions with using the issues feature.
+
+</div>
