@@ -3,11 +3,11 @@ var app         = express();
 var mongoose    = require("mongoose")
 var bodyParser  = require("body-parser")
 var Recipe      = require('./models/recipe')
+var {port, url} = require("./config.json") 
 
 app.use(bodyParser.urlencoded({extended: true}))
 
-const connectString = "YOUR_MONGO_URL"
-mongoose.connect(connectString, { useUnifiedTopology: true, useNewUrlParser: true })
+mongoose.connect(url, { useUnifiedTopology: true, useNewUrlParser: true })
 
 app.get('/' , (req , res) =>{
     res.json({message: 'Welcome to Cookbook API! Please add an ingrident to the URL.'})
@@ -46,6 +46,6 @@ app.post("/recipe/new" , async (req , res) =>{
     res.redirect("/")
 })
 
-app.listen(3000, ()=>{
-    console.log('Server Up')
+app.listen(port, ()=>{
+    console.log('Server up on port' + port)
 })
