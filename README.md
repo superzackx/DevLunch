@@ -1,6 +1,5 @@
 <img src="./assets/COOKBOOK_API.png" style="border: none;">
-<br>
-<br>
+
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
 ![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/superzackx/CookbookAPI?style=for-the-badge)
