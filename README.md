@@ -1,5 +1,6 @@
 <img src="./assets/COOKBOOK_API.png" style="border: none;">
-
+<br>
+<br>
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
 ![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/superzackx/CookbookAPI?style=for-the-badge)
@@ -8,7 +9,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/superzackx/CookbookAPI?style=for-the-badge)
 
-A simple API that gives you a recipe depending on what ingredients you have at home.
+| Information | Support |
+|:------------|:---------:|
+| A simple API that gives you a recipe depending on what ingredients you have at home. It will soon use alogrithms to decide what all can be made according to your pasty searches. Updates will be made weekly and new versions are coming up! | support us by contributing and PLEASE like this repo. Can we reach 1k stars? |
 
 ## Usage
 
