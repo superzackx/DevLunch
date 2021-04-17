@@ -12,6 +12,10 @@ var recipeSchema = new mongoose.Schema({
     directions: {
         type: String, 
         required: [true, 'Directions cannot be blank']
+    },
+    created_date: {
+        type: Date,
+        default: Date.now,
     }
 })
 
