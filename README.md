@@ -7,6 +7,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/superzackx/CookbookAPI?style=for-the-badge)
+
 A simple API that gives you a recipe depending on what ingredients you have at home.
 
 ## Usage
