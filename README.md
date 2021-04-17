@@ -11,8 +11,8 @@ Note: You require Node.JS installed for this app.
 
 1. Download the files.
 2. Run ```npm i express mongoose body-parser``` to install the dependencies. 
-3. Open app.js and add your MongoDB Atlass connect string in place of ```var connectString = "YOUR_MONGO_URL"```.
-4. Run node app.js and your personal cookbook will be like at ```localhost:3000```.
+3. Open config.json and fill in the details.
+4. Run ```node app.js``` and visit the specified port.
 
 ### Community Version
 
