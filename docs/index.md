@@ -1,22 +1,3 @@
-<div style="text-align: center;">
-<img src="../assets/final_607afb6c25a269005bb44ca3_259327.png" style="border: none;">
-
-![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
-![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/superzackx/CookbookAPI?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/superzackx/CookbookAPI?style=for-the-badge)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/superzackx/CookbookAPI?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/superzackx/CookbookAPI?style=for-the-badge)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/superzackx/CookbookAPI?style=for-the-badge)
-
-| Information | Support |
-|:------------|:---------:|
-| A simple API that gives you a recipe depending on what ingredients you have at home. It will soon use alogrithms to decide what all can be made according to your pasty searches. Updates will be made weekly and new versions are coming up! | support us by contributing and PLEASE star this repo. Can we reach 1k stars? |
-
-## Usage
-
-To use the API, you have two options. Community and Personal. The easy version is where you just use the pre hosted API along with others. The second option is to use the Personal version. 
-
 ### Personal Version
 
 Note: You require Node.JS installed for this app.
@@ -31,21 +12,3 @@ Note: You require Node.JS installed for this app.
 ### Community Version
 
 The community version of Cookbook will soon be ready! It will be a simple API hosted by me. Please use the personal version for now!
-
-## Routes
-
-Ok, so you have the API up and running. But how to use it? So, let's get started. Below are the things you can do:
-
-1. Go to ```/ingredients/ANY_VEGETABLE_YOU_HAVE_AT_HOME```
-2. Go to ```/recipe/RECIPE_ID```
-3. Okay, it's coming...
-
-## Contribute
-
-You can contribute by opening a new issue or make a pull request! 
-
-## Support Us
-
-Please star this repo! It will help a lot. You can fork the repo to make your own version. Make sure you share new versions with using the issues feature.
-
-</div>
