@@ -31,8 +31,8 @@ The community version of Cookbook will soon be ready! It will be a simple API ho
 
 Ok, so you have the API up and running. But how to use it? So, let's get started. Below are the things you can do:
 
-1. Go to /ingredients/ANY_VEGETABLE_YOU_HAVE_AT_HOME
-2. Go to /recipe/RECIPE_ID
+1. Go to ```/ingredients/ANY_VEGETABLE_YOU_HAVE_AT_HOME```
+2. Go to ```/recipe/RECIPE_ID```
 3. Okay, it's coming...
 
 ## Contribute
