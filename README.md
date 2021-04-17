@@ -1,9 +1,5 @@
 # CookbookAPI
 
-[]https://img.shields.io/github/license/superzackx/CookbookAPI
-[]https://img.shields.io/github/forks/superzackx/CookbookAPI
-[]https://img.shields.io/github/stars/superzackx/CookbookAPI
-
 A simple API that gives you a recipe depending on what ingredients you have at home.
 
 ## Usage
