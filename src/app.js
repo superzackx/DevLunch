@@ -11,15 +11,18 @@ app.use(bodyParser.urlencoded({extended: true}))
 mongoose.connect(url, { useUnifiedTopology: true, useNewUrlParser: true })
 
 app.get('/' , (req , res) =>{
+    res.status(200);
     res.json({message: 'Welcome to DeveloperLunch API! Please add an ingrident to the URL.'})
 })
 
 app.get('/ingredients/:i' , (req , res) =>{
     try{
         Recipe.find({ ingredients: { $regex: req.params.i, $options: "i" }}, function(e, recipes) {
+            res.status(200)
             res.json(recipes)
         });
         }catch(e){
+            res.status(400)
             console.log(e)
         }
 })
@@ -29,8 +32,10 @@ app.get("/recipe/:r" , (req , res) =>{
     if(mongoose.Types.ObjectId.isValid(id)) {
         Recipe.findById(id, function (err, recipe){
             if (err){
+                res.status(400)
                 console.log(err)
             } else{
+                res.status(200)
                 res.json(recipe)
             }
         })
@@ -44,6 +49,7 @@ app.post("/recipe/new" , async (req , res) =>{
         directions: req.body.directions
     })
     await recipe.save();
+    res.status(200)
     res.redirect("/")
 })
 
