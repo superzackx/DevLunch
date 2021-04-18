@@ -40,6 +40,11 @@ Ok, so you have the API up and running. But how to use it? So, let's get started
 2. Go to ```/recipe/RECIPE_ID```
 3. Okay, it's coming...
 
+
+## DevLunch+ 
+
+DevLunch+ is the paid version of this API. Don't worry! It only costs $2 one time fee! This version is not yet here. If you want this, please email me at ```superzackx@gmail.com```. This version will be customized according to your needs.
+
 ## Contribute
 
 You can contribute by opening a new issue or make a pull request! 
