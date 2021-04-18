@@ -5,6 +5,15 @@ var bodyParser  = require("body-parser")
 var Recipe      = require('./models/recipe')
 var {port, url} = require("./config.json") 
 var morgan      = require("morgan")
+const rateLimit = require("express-rate-limit");
+
+const limiter = rateLimit({
+  windowMs: 24 * 60 * 60 * 1000,
+  max: 100 // limit each IP to 100 requests per windowMs
+});
+
+//  apply to all requests
+app.use(limiter);
 
 app.use(bodyParser.urlencoded({extended: true}))
 
