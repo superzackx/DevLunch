@@ -4,6 +4,7 @@ var mongoose    = require("mongoose")
 var bodyParser  = require("body-parser")
 var Recipe      = require('./models/recipe')
 var {port, url} = require("./config.json") 
+var morgan      = require("morgan")
 
 app.use(bodyParser.urlencoded({extended: true}))
 
