@@ -22,7 +22,7 @@ mongoose.connect(url, { useUnifiedTopology: true, useNewUrlParser: true })
 
 app.get('/' , (req , res) =>{
     res.status(200);
-    res.json({message: 'Welcome to DeveloperLunch API! Please add an ingrident to the URL.'})
+    res.json({message: 'Welcome to DeveloperLunch API! Please add an ingrident to the URL.' , ip: req.ip})
 })
 
 app.get('/ingredients/:i' , (req , res) =>{
