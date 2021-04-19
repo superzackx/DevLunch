@@ -2,7 +2,6 @@
 <img src="./assets/final_607afb6c25a269005bb44ca3_259327.png" style="border: none;">
 
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
-![ESLint](https://img.shields.io/github/workflow/status/superzackx/CookbookAPI/Eslint?label=ESLint&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/superzackx/CookbookAPI?style=for-the-badge)
