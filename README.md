@@ -43,7 +43,7 @@ Ok, so you have the API up and running. But how to use it? So, let's get started
 
 ## Documentation
 
-Official documentation is made by https://devlunch.js.org
+Official documentation is at https://devlunch.js.org
 
 ## DevLunch+ 
 
