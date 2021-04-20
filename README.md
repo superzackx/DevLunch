@@ -41,6 +41,9 @@ Ok, so you have the API up and running. But how to use it? So, let's get started
 2. Go to ```/recipe/RECIPE_ID```
 3. Okay, it's coming...
 
+## Documentation
+
+Official documentation is made by https://devlunch.js.org
 
 ## DevLunch+ 
 
