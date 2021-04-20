@@ -57,4 +57,9 @@ You can contribute by opening a new issue or make a pull request!
 
 Please star this repo! It will help a lot. You can fork the repo to make your own version. Make sure you share new versions with using the issues feature.
 
+## Thanks to these Amazing People!
+
+PS: Be showcased here by starring the repo!
+
+[![Stargazers repo roster for @superzackx/DevLunch](https://reporoster.com/stars/superzackx/DevLunch)](https://github.com/superzackx/DevLunch/stargazers)
 </div>
