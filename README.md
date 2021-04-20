@@ -1,5 +1,7 @@
 <div style="text-align: center;">
 <img src="./assets/final_607afb6c25a269005bb44ca3_259327.png" style="border: none;">
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/superzackx/CookbookAPI?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/superzackx/CookbookAPI?style=for-the-badge)
