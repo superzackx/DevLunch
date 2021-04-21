@@ -33,7 +33,7 @@ Note: You require Node.JS installed for this app.
 
 ### Community Version
 
-The community version of Cookbook will soon be ready! It will be a simple API hosted by me. Please use the personal version for now!
+The community version of DevLunch is finally here! Go to ```https://devlunchapi.azurewebsites.net``` to check it out! The community version will have recipes all from the community. You can make up to 100 requests daily on this API. The routes and methods remain the same for the community and personal verison. Please star this repo if you want me to keep improving this project! 
 
 ## Routes
 
